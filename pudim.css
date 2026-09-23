@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding: 12px;
+}
+
+body {
+    background-image: url(orange\ color.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px;
+    justify-content: center;
+    font-weight: bold;
+}
+
+img {
+    height: 550px;
+    border: 8px;
+    border-style: groove;
+    border-color: orange;
+}
+
+h2 {
+    padding: 6px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
